@@ -2,7 +2,7 @@
 420-IAA-TT | Hiver 2025
 Réalisé par : Abdellatif Boulouqat
 Encadré par : Prof. Hichem Benfriha
-Lien GitHub : [Ajouter le lien ici]
+Lien GitHub : https://github.com/BOULOUQAT/beans-and-pods_MR_HichemBenfriha_IA1.git
 
 ✅ 1. Introduction
 Beans & Pods est un fournisseur familial spécialisé dans la vente de grains de café et de gousses. Après avoir levé des fonds auprès d'Angeli VC, l’entreprise a lancé une opération en ligne dans le but d’augmenter ses revenus.
